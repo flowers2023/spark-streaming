@@ -1,4 +1,4 @@
-A real time compute project base on:
+从flume-ng获取数据，通过spark-streaming进行统计计算，最后发送到mysql中    
 - flume,ingest data
 - spark streaming,analyse data
 - redis,data store
