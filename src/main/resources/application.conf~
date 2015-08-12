@@ -1,0 +1,7 @@
+task.name=nginxAnalyze
+batch.interval.size=5
+mysql.hostname=localhost
+mysql.db=spark
+mysql.port=3306
+mysql.username=spark
+mysql.password=spark
