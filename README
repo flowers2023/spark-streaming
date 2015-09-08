@@ -1,5 +1,8 @@
-从flume-ng获取数据，通过spark-streaming进行统计计算，最后发送到mysql中    
+1、从flume-ng获取数据，通过spark-streaming进行统计计算，最后发送到mysql中    
 - flume,ingest data
 - spark streaming,analyse data
 - redis,data store
 
+   
+2、从kafka获取数据   
+然后格式化成DF，进行sql统计分析
