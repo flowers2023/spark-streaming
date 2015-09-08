@@ -51,7 +51,7 @@ object KafkaNginxAnalyze{
 
 }
 
-/** Case class for converting RDD to DataFrame */
+/** 定义表结构 */
 case class Student(id: String,name: String,age: Int)
 
 
